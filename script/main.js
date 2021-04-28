@@ -201,7 +201,7 @@ const animationTimeline = () => {
     })
     .staggerFrom(
       ".wish-hbd span",
-      0.7,
+      90,
       {
         opacity: 0,
         y: -50,
